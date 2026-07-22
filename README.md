@@ -7,6 +7,7 @@
 ## Быстрая навигация
 
 - [Рабочая программа дисциплины](docs/rpd.md)
+- [Модель оценивания](docs/scoring-model.md)
 - [Методические указания](methodical-guidelines/README.md)
 - [Информационные ресурсы](resources/README.md)
 - [Команда проекта](team/README.md)
@@ -133,7 +134,8 @@
 ├── README.md
 ├── LICENSE.md
 ├── CONTRIBUTING.md
-├── docs/                  # Документация (РПД, чек-лист)
+├── docs/                  # Документация (РПД, чек-лист, модель оценивания)
+│   └── source/            # Исходные файлы РПД и ФОС (docx)
 ├── M1-module-name/        # Модуль 1 (ЛР 1–2)
 ├── M2-module-name/        # Модуль 2 (ЛР 3–5)
 ├── M3-module-name/        # Модуль 3 (ЛР 6–7)
