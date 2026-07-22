@@ -1,10 +1,3 @@
-"""
-Baseline for ЛР-1: Viola-Jones + HOG+SVM.
-
-This is a structural demonstration showing the expected pipeline,
-NOT a full solution. Students must implement their own version.
-"""
-
 import cv2
 import numpy as np
 from sklearn.svm import LinearSVC
