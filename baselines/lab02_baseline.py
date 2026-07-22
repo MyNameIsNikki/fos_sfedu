@@ -1,10 +1,3 @@
-"""
-Baseline for ЛР-2: CNN comparison (ResNet, SE block, ECA block).
-
-This is a structural demonstration showing the expected pipeline,
-NOT a full solution. Students must implement their own version.
-"""
-
 import torch
 import torch.nn as nn
 import torchvision.models as models
