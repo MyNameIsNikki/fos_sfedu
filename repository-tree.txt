@@ -92,8 +92,9 @@ C:\USERS\ALEYN\ONEDRIVE\РАБОЧИЙ СТОЛ\ДЛЯ ДАНИЛЬЧЕНКО
 │   └───images
 │           .gitkeep
 │
-└───Файлики
-        Метод указания преподавателям по оцениванию KH.docx
-        Модель измерения ФОС для КЗ.docx
-        Расстановка баллов.docx
-        ФОС.docx
+└───docs
+    └───source
+            B1_V_06Sovremennye_metody_kompyuternogo_zrenia_01_03_02_1.docx
+            Модель измерения ФОС для КЗ.docx
+            Расстановка баллов.docx
+            ФОС.docx
